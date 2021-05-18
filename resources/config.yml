@@ -1,0 +1,6 @@
+# Авторство плагина принадлежит https://vk.com/evildonat
+settings:
+    worlds:
+    - 'world'
+    - 'world_nether'
+    - 'world_the_end'

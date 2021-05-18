@@ -1,0 +1,6 @@
+name: nlbHideNicknames
+version: 1.0
+main: ru.naulbimix.nlbHideNicknames.Main
+author: NaulbiMIX
+website: vk.com/evildonat
+softdepend: [ProtocolLib]
