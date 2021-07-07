@@ -15,7 +15,7 @@ public class Main extends JavaPlugin {
     @Override
     public void onEnable() {
         plugin = this;
-        ServerUtils.Logger("&7Запуск плагина &enlbHideNicknames &7версии &e" + getDescription().getVersion() + " &7от &6vk.com/evildonat");
+        ServerUtils.Logger("&7Запуск плагина &enlbHideNicknames &7версии &e" + getDescription().getVersion() + " &7от &6NaulbiMIX");
         if(Bukkit.getPluginManager().getPlugin("ProtocolLib") == null) {
             ServerUtils.Logger("&7Отсутвует плагин-зависимость &eProtocolLib");
             Bukkit.getPluginManager().disablePlugin(this);
