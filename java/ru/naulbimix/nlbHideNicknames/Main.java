@@ -32,6 +32,7 @@ public class Main extends JavaPlugin {
     @Override
     public void onDisable() {
         ServerUtils.hidesPlayers.clear();
+        HandlerList.unregisterAll(this);
     }
 
     public static Main getPlugin() {
