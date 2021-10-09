@@ -1,6 +1,16 @@
+# Название разработки.
 name: nlbHideNicknames
+# Версия разработки.
 version: 1.0
-main: ru.naulbimix.nlbHideNicknames.Main
+# Главный класс разработки.
+main: naulbimix.nlbHideNicknames.Main
+# Официальный автор разработки.
 author: NaulbiMIX
-website: vk.com/evildonat
+# Автор и другие разработчики, которых был задействован код или помощь в разработке плагина.
+authors:
+  - NaulbiMIX
+  - BeYkeRYkt
+# Веб-сайт автора.
+website: https://naulbimix.ru/
+# Зависимые плагины, загружающиеся раньше чем эта разработка, в случае их отсутствия разработка работает неккоректно и/или будет отключена при загрузке автоматически.
 softdepend: [ProtocolLib]

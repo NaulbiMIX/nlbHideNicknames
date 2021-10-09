@@ -1,6 +1,7 @@
-# Авторство плагина принадлежит https://vk.com/evildonat
+# Настройки
 settings:
-    worlds:
+  # Разрешённые миры, в которых работает скрытие никнеймов
+  whitelistWorlds:
     - 'world'
     - 'world_nether'
     - 'world_the_end'
